@@ -1,0 +1,6 @@
+
+PAGENME, TYPE { URL, LINK, BUTTON, SUBMIT } , PARAMETERS 
+
+homePage, URL , "url link here"
+
+
